@@ -1,0 +1,9 @@
+leftnav:
+- identifier: 6b3dcb5a-fb38-6e1c-7d1f-0f1899d3964d
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: 6759bce5-29af-4b20-502a-f400105d5f8a
+  name: Kanji Video Lectures
+  pageRef: /video_galleries/kanji-video-lectures
+  weight: 20

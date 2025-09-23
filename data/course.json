@@ -1,0 +1,45 @@
+{
+  "term": "Spring",
+  "year": "2021",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Humanities",
+      "Language",
+      "Japanese"
+    ]
+  ],
+  "legacy_uid": "1a039460-b3ad-15d3-bbdb-2a2966c5dc71",
+  "instructors": {
+    "content": [
+      "a5691d44-4ed0-67fc-77c2-ba2830da98b3",
+      "2d223f0c-c001-5324-22e8-f1b16be3f074"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "cb8e1aff-341a-8c61-0d2d-664c7d4abb63",
+    "website": "res-21g-506-kanji-learning-any-time-any-place-for-japanese-vi-spring-2021"
+  },
+  "course_title": "Kanji Learning Any Time, Any Place for Japanese VI",
+  "hide_download": false,
+  "course_description": "This resource aims to enhance students\u2019 learning of kanji by providing a series of video lectures that cover the kanji characters in {{% resource_link \"0f9ef86d-154b-4265-8aa8-b0b75dce8c71\" \"Tobira\" %}} lessons 6\u201310. The video lectures not only teach how to write kanji but also provide stories behind the kanji characters.\n",
+  "department_numbers": [
+    "21G"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "RES.21G-506",
+  "course_image_thumbnail": {
+    "content": "0804cc07-df5b-f832-1749-895bd4bea109",
+    "website": "res-21g-506-kanji-learning-any-time-any-place-for-japanese-vi-spring-2021"
+  },
+  "learning_resource_types": [
+    "Lecture Videos"
+  ],
+  "site_uid": "23b4f44c-f8bd-4c78-95d3-b9cc71c8aa1b",
+  "site_short_id": "res.21g-506-spring-2021",
+  "site_url_path": "courses/res-21g-506-kanji-learning-any-time-any-place-for-japanese-vi-spring-2021",
+  "title": "Course Metadata"
+}
