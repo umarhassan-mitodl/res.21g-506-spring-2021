@@ -4,6 +4,8 @@ description: ''
 end_time: ''
 file: null
 file_size: '47153724'
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
@@ -26,7 +28,7 @@ video_metadata:
   youtube_id: hRPRQVG8Tw0
 ---
 
-**Description**: This is a dual-language video, with content in both Japanese and English. Selecting either English or Japanese captions will provide the same dual-language captions. This video covers the Japanese kanji characters in Lesson 9 of the textbook, _{{% resource_link "0f9ef86d-154b-4265-8aa8-b0b75dce8c71" "Tobira: Gateway to Advanced Japanese Learning Through Content and Multimedia" %}}_.
+**Description**: This is a dual-language video, with content in both Japanese and English. Selecting either English or Japanese captions will provide the same dual-language captions. This video covers the Japanese kanji characters in Lesson 9 of the textbook, _[Tobira: Gateway to Advanced Japanese Learning Through Content and Multimedia](https://tobiraweb.9640.jp/)_.
 
 **Instructor**: Dr. Takako Aikawa
 
