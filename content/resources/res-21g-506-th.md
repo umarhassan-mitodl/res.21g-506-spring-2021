@@ -4,8 +4,6 @@ description: ''
 file: /courses/res-21g-506-kanji-learning-any-time-any-place-for-japanese-vi-spring-2021/0804cc07df5bf8321749895bd4bea109_res-21g-506-th.jpg
 file_size: 10089
 file_type: image/jpeg
-hide_download: true
-hide_download_original: null
 image_metadata:
   caption: "\"\u679C\" is a shokei moji (\u8C61\u5F62\u6587\u5B57) among the 1026\
     \ kyoiku kanji (\u6559\u80B2\u6F22\u5B57), the most commonly used kanji. (Image\

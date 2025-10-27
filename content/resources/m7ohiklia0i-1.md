@@ -4,8 +4,6 @@ description: ''
 file: /courses/res-21g-506-kanji-learning-any-time-any-place-for-japanese-vi-spring-2021/8ae72fc111cf674512844db461e0ef3a_M7oHikLia0I.pdf
 file_size: 42577
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
